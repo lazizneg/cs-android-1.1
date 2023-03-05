@@ -50,7 +50,7 @@ You see the statement "MainActivity layout is complete" in the Logcat pane if th
 
 * - [x] Verbose
 * Debug
-* -[x] Info
+* - [x] Info
 * Warn
 * Error
 * Assert
