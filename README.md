@@ -34,7 +34,7 @@ What is the name of the string resource that specifies the application's name?
 Which tool do you use to create a new emulator?
 
 * Android Device Monitor
-* - [x] AVD Manager
+* - [x] Device Manager
 * SDK Manager
 * Theme Editor
 
